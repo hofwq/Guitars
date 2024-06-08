@@ -11,7 +11,7 @@ public enum Sounds {
     pile(63),
     revenga(67),
     scarytale(66),
-    that_s_out_madhouse(121),
+    that_s_our_madhouse(121),
     you_won_t_let_me_down(94);
 	
 	private final int duration;
