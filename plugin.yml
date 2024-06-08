@@ -1,0 +1,10 @@
+name: Guitars
+main: ru.hofwq.guitars.Guitars
+version: 1.0 alpha
+author: hofwq
+api-version: 1.16
+
+commands:
+  guitar:
+    description: Начать играть на гитаре.
+    usage: /guitar [Sound]
